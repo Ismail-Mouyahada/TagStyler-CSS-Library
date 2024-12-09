@@ -1,4 +1,6 @@
 # TagStyler-CSS-Library | Open-Source-Free
+
+![image](https://github.com/user-attachments/assets/300c1f89-6f04-433a-8fd1-ab87e4080082)
 Tag Styler is a lightweight, efficient CSS library created by Ismail Mouyahada that revolutionizes how we style web elements. Instead of relying on multiple class declarations, Tag Styler uses direct tag styling to create clean, maintainable, and performant CSS code.
 
 # Tag Styler CSS Library
@@ -23,8 +25,6 @@ Tag Styler is a lightweight, efficient CSS library created by Ismail Mouyahada t
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Ismail-Mouyahada/TagStyler-CSS-Library@main/TagStyler.min.css">
 
 ```
-
-![image](https://github.com/user-attachments/assets/300c1f89-6f04-433a-8fd1-ab87e4080082)
 
 ## Basic Usage Example
 ```html
