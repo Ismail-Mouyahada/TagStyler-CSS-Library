@@ -21,7 +21,10 @@ Tag Styler is a lightweight, efficient CSS library created by Ismail Mouyahada t
  
 <!-- Specific version -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Ismail-Mouyahada/TagStyler-CSS-Library@main/TagStyler.min.css">
+
 ```
+
+![image](https://github.com/user-attachments/assets/300c1f89-6f04-433a-8fd1-ab87e4080082)
 
 ## Basic Usage Example
 ```html
@@ -43,50 +46,35 @@ Tag Styler is a lightweight, efficient CSS library created by Ismail Mouyahada t
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Tag Styler Demo</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Ismail-Mouyahada/TagStyler-CSS-Library@main/TagStyler.css">
 </head>
 <body>
+    <header>
+        <h1>Welcome to My Website</h1>
+    </header>
     <nav>
-        <logo>Tag Styler</logo>
-        <menu>
-            <item><a href="#home">Home</a></item>
-            <item><a href="#about">About</a></item>
-            <item><a href="#contact">Contact</a></item>
-        </menu>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
     </nav>
-
-    <hero>
-        <title>Welcome to Tag Styler</title>
-        <subtitle>Clean, Fast, and Class-Free Styling</subtitle>
-        <cta href="#getstarted">Get Started</cta>
-    </hero>
-
-    <section>
-        <card>
-            <cardtitle>Feature 1</cardtitle>
-            <cardcontent>
-                Simplified styling without classes
-            </cardcontent>
-        </card>
-        
-        <card>
-            <cardtitle>Feature 2</cardtitle>
-            <cardcontent>
-                Faster development process
-            </cardcontent>
-        </card>
-        
-        <card>
-            <cardtitle>Feature 3</cardtitle>
-            <cardcontent>
-                Reduced file size
-            </cardcontent>
-        </card>
-    </section>
-
+    <main>
+        <section>
+            <h2>Main Content</h2>
+            <p>This is the main content area.</p>
+        </section>
+        <aside>
+            <p>This is a side note.</p>
+        </aside>
+        <button>
+         Media
+        </button>
+    </main>
     <footer>
-        <copyright>Created by Ismail Mouyahada</copyright>
+        <p>&copy; 2024 My Website</p>
     </footer>
 </body>
 </html>
